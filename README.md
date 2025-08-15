@@ -1,10 +1,10 @@
 # Jatin-Cse
 Induction Program 
-
+Jatin,Branch-CSE
 
 ---
 
-Day 1
+Induction day - 1 report
 
 8.30 am to 9.30 am
 The day began with path and kirtan at college Gurudwara Sahib, blessing the new beginnings of our future tech leaders.
@@ -45,7 +45,7 @@ Finally, we were given a tour of classrooms, labs, library and many classes in t
 
 ---
 
-Day 2
+Induction day - 2 report
 
 9.30 am to 11.30 am – Proficiency Test
 The day began with a proficiency test of English which included reading letters, emails, grammar.
@@ -66,20 +66,45 @@ At last, seniors introduced the GitHub website which is used to host and manage 
 
 ---
 
-Day 3
+Induction day - 3 report
+Lecture 1 – Dr. Jaswinder Singh
 
-9.00 am to 11.00 am – Expert Lecture
-Dr. Jaswinder Singh (Incharge – Lab on Wheels) provided us useful and simple knowledge of science, mathematics, and life through fun, experiments, and demonstrations.
-(Renowned for Jaswinder's Lab on Wheels)
+Dr. Jaswinder’s lecture was honestly pretty fun. The whole auditorium seemed to enjoy it and we got to learn quite a few things. He talked about his thoughts on God and science, and how somehow they connect in unexpected ways. Also, the math tricks he showed were mind-blowing. It wasn’t just the science or nature stuff—he had some wise life tips too. But the thing that really stood out was his crazy energy, like he could go on for hours without slowing down. He also cracked some jokes here and there which kept us awake. Overall, really good session, I walked out feeling smarter.
 
-Chief Guest: S. Gurcharan Singh Grewal
-Encouraged students with his motivating words.
+Lecture 2 – Dr. Priya Darshni
 
-11.00 am to 1.00 pm – Expert Lecture
-Dr. Priya Darshani Madam (UHV) enriched our young minds with clarity, personal growth, and self-reflection.
-
-Proficiency Test Result
-We had a group discussion where students talked about their test results in Mathematics and English.
+This one was totally different from the first, but in a good way. She focused on human values—things like goals, purpose, and basically what we’re doing with our lives. She explained it step-by-step, which made it easy to follow. At first she seemed a bit quiet and slow-paced, but after a while, it picked up and ended with something meaningful. It actually made me think about my own values. Can’t lie, I’m looking forward to more of her lectures.
 
 
 ---
+
+Induction Report – Day 4
+
+Day 4 was another “learn something new” kind of day. I attended two sessions—felt like the start of a fresh journey (even though it’s just an induction). The programme itself was chill as usual.
+
+Dr. Priya Darshni’s Lecture (Again)
+
+This one topped her previous session. She started by quickly recapping last time, then went deeper into new ideas. I liked a lot of what she said—especially about life and purpose—and I’m actually thinking about doing the exercises she gave so I can try applying it for real.
+
+Cosmic Club & Other Stuff
+
+We got introduced to one of GNE’s main clubs—the “Cosmic Club.” The members explained what they do, how it helps build teamwork, and the skills you can pick up if you join. It sounded pretty cool. After that, there were a couple of random but fun things: one sir explained how to choose the right laptop (helpful for anyone planning to get one), and then one student performed a song on guitar. I love how GNE always mixes learning with fun stuff—it keeps things interesting.
+
+Induction day - 5 report
+One day 5, there were no induction programme activities, I believe this day was focused on introducing students to lectures, studies and teachers. Nevertheless, I had a great experience and one more time like always learned about amazing feats of GNE, we got introduced to other great teachers and subjects. We were immediately introduced to our new courses and other important details, most of the teachers instead of burdening us got friendly with us and prioritised introduction conversations and important tips as for college, to make us comfortable with the subject as soon as possible. The day ended with some lectures like I've talked about and some other activities and it was as always a fabulous day for us to learn
+
+Induction day - 6 report
+The day started as normal but as the induction programme started, I was already feeling like new things to learn were there.
+
+Lecture by prof. Lakhvir singh
+Professor Lakhvir singh introduced us to CML where we can learn different things, and he tells about different things like joining CML and it was great, CML is obviously an opportunity to learn new things, to learn things like leadership, teamwork, management and even other significant skills. It is always great of GNE to tell us these different things and I always like it, at start it feels just out of blue and completely random but then it starts to make sense and why it's important, I'll definitely consider joining CML for sure.
+
+Induction day - 7 report
+Starting introduction to different GNE facilities by Dr. Parminder singh
+Another great experience learning about GNE, as I would definitely require this valueable knowledge and I'm greatful for it.
+
+Lecture by Dr. Amit Kamra
+Another fabulous lecture given by and a fabulous introduction to one of the new clubs of DMC, though it was not much to those who don't want to join, but I'll definately consider it so I listened clearly and I was thrilled by the club like I've always been. DMC is basically Digital Marketing Club which also manages the social media of GNE and I think it is great of GNE for introducing this. Many students who want to aspire to be a successful person will definitely require DMC's skills. Although at the time, the club is small but I'm sure of it that it'll grow eventually.
+
+The last lecture on conduct of examination by Dr. Randhir Singh
+The last lecture was very informative. Dr. Randhir Singh not only explained the conduct of examinations in detail, including the rules, procedures, and guidelines to be followed, but also guided us through the official college website. He showed us how to access important sections such as notices, results, and academic resources. In addition, he provided information about mid-semester tests, assignments, and their submission processes, along with the evaluation criteria. The session was quite helpful in understanding the academic requirements and how to stay updated throughout the semester.
